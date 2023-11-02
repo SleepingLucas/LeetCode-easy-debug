@@ -1,6 +1,6 @@
 # LeetCode Easy Debug
 
-本项目提供一种在 VsCode 调试 LeetCode 代码的方案，需要用到的工具如下：
+本项目提供一种在 VSCode 调试 LeetCode C++ 代码的方案，需要用到的工具如下：
 
 - VSCode
 - VSCode `LeetCode` 官方插件

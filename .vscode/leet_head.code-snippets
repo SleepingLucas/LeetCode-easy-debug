@@ -1,0 +1,19 @@
+{
+	"Print to conaole":{
+		"prefix": "leet_head",    // 在新建立的页面中输入leet_head就会有智能提示，Tab就自动生成好了
+		"body": [
+			"",
+			"#include<bits/stdc++.h>",
+			"#include \"lc_func.h\"",
+			"using namespace std;",
+			"",
+			"#define DE_BUG",
+			"#ifdef DE_BUG",
+			"\t#include \"D:\\c++\\DEBUG.h\"",
+			"\tusing namespace DEBUG_;",
+			"#endif",
+			"",
+		],
+		"description": "力扣头文件"   // 用户输入后智能提示的内容
+	}
+}
